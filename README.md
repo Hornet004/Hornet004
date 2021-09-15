@@ -1,6 +1,6 @@
 <h2> Hi, I'm David Adegoke! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">ALX</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img align='right' src="https://media.giphy.com/media/hpF9R9M1PHN5e5liSx/giphy.gif?cid=ecf05e47fm0qgol15dz6b63hqc5bq6xkawypecii6wlxekdr&rid=giphy.gif&ct=g" width="230">
+<p><em>Software Enginner at <a href="https://www.alxafrica.com/">ALX</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Product Designer at <a href="https://#">Horbtech INC</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Product Manager at <a href="https://#">AboutCERT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: dboutcert](https://img.shields.io/twitter/follow/dboutcert?style=social)](https://twitter.com/dboutcert)
@@ -13,18 +13,17 @@
 ```javascript
 const David = {
   pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [Javascript, Typescript, HTML, CSS, C, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Figma, Adobe XD],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/VEj30DuFKtXE0o5MBS/giphy.gif?cid=ecf05e474bfg2ndttswb40olzq1ncnisnzun21h4nmux7bp7&rid=giphy.gif&ct=g" width="50"> <em><b>Feel free to connect :)</em>
 
 ---
