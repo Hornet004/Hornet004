@@ -3,8 +3,8 @@
 <p><em>Software Enginner at <a href="http://www.unb.br">ALX</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: dboutcert](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: dboutcert](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dboutcert/)](https://www.linkedin.com/in/dboutcert/)
+[![Twitter: dboutcert](https://img.shields.io/twitter/follow/dboutcert?style=social)](https://twitter.com/dboutcert)
+[![Linkedin: dboutcert](https://img.shields.io/badge/-dboutcert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dboutcert/)](https://www.linkedin.com/in/dboutcert/)
 [![GitHub Hornet004](https://img.shields.io/github/followers/Hornet004?label=follow&style=social)](https://github.com/Hornet004)
 
 
