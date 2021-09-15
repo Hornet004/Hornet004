@@ -16,11 +16,6 @@ const David = {
   code: [Javascript, Typescript, HTML, CSS, C, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Figma, Adobe XD],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
 }
 ```
 
