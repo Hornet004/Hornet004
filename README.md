@@ -18,6 +18,7 @@ const David = {
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
 ```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hornet004&layout=compact)](https://github.com/Hornet004/github-readme-stats)
 
 <img src="https://media.giphy.com/media/VEj30DuFKtXE0o5MBS/giphy.gif?cid=ecf05e474bfg2ndttswb40olzq1ncnisnzun21h4nmux7bp7&rid=giphy.gif&ct=g" width="50"> <em><b>Feel free to connect :)</em>
 
