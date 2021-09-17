@@ -13,7 +13,7 @@
 ```javascript
 const David = {
   pronouns: "He" | "Him",
-  code: [Javascript, shell, HTML, CSS, C, Python, Java],
+  code: [Javascript, Shell, HTML, CSS, C, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Figma, Adobe XD],
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
