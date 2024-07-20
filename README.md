@@ -1,6 +1,6 @@
 <h2> Hi, I'm David Adegoke! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/hpF9R9M1PHN5e5liSx/giphy.gif?cid=ecf05e47fm0qgol15dz6b63hqc5bq6xkawypecii6wlxekdr&rid=giphy.gif&ct=g" width="230">
-<p><em>Software Enginner at <a href="https://www.alxafrica.com/">ALX</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Product Designer at <a href="https://#">Horbtech INC</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Product Manager at <a href="https://#">AboutCERT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="https://www.alxafrica.com/">ALX</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Product Designer at <a href="https://classboxhub.com/">Classbox</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Product Manager at <a href="https://#">AboutCERT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: dboutcert](https://img.shields.io/twitter/follow/dboutcert?style=social)](https://twitter.com/dboutcert)
